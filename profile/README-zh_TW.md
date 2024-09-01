@@ -4,6 +4,6 @@
 
  "Project [matrix]" 是一個由「蔚藍檔案」的粉絲製作並延伸的同人遊戲。
 
-![image](dotgithub-title.gif)
+<img src="dotgithub-title.gif" width="75%" height="75%"/>
 
 麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P

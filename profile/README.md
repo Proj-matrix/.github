@@ -4,5 +4,6 @@
 
 "Project [matrix]" is a fan-made game which made by the fans of "Blue Archive".
 
-![image](dotgithub-title.gif)
-plz ignore Midori's outfit, I'm not a iMovie pro lol.
+<img src="dotgithub-title.gif" width="75%" height="75%"/>
+
+plz ignore Midori's outfit, I'm not a iMovie guy lol.
