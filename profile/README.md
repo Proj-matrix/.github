@@ -1,8 +1,8 @@
 # Project [matrix]  [English](README.md) | [繁體中文](README-zh_TW.md)
 
-NOTICE: If you want to contribute, or want to know about the detail, please read the documentation of this repository first.
+NOTICE: If you want to contribute, or want to know about the detail, please read the documentation of the ".github" repository first.
 
-[Go to this repo first🙋‍♂️](https://github.com/Proj-matrix/.github)
+[repo:Proj-matrix/.github](https://github.com/Proj-matrix/.github)
 
 ## So, a short information about this project.
 
@@ -15,4 +15,3 @@ The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostl
     title="plz ignore Midori's outfit, I'm not a iMovie guy lol." width="75%" height="75%"/>
     <figcaption>plz ignore Midori's outfit, I'm not a iMovie guy lol.</figcaption>
 </figure>
-

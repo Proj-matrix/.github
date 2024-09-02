@@ -1,8 +1,8 @@
 # Project [matrix]  [English](README.md) | [繁體中文](README-zh_TW.md)
 
-請注意：若您想為此專案做任何貢獻，或是想知道更多資訊，請先查看以下存放庫的文件檔。
+請注意：若您想為此專案做任何貢獻，或是想知道更多資訊，請先查看".github"存放庫的文件檔。
 
-[存放庫傳送門🙋‍♂️](https://github.com/Proj-matrix/.github)
+[repo:Proj-matrix/.github](https://github.com/Proj-matrix/.github)
 
 ## 來個簡單的專案簡介吧。
 
@@ -15,4 +15,3 @@
     title="麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P" width="75%" height="75%"/>
     <figcaption>麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P</figcaption>
 </figure>
-
