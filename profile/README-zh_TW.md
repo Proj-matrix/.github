@@ -11,7 +11,7 @@
 本專案將完全使用Unreal Engine 5製作，程式語言以Blueprint為主體，若Blueprint程式碼有不足之情況時Rust(主要)與C++語言將會是可選項。
 
 <figure>
-    <img src="dotgithub-title.gif" 
+    <img src="../assets/dotgithub-title.gif"
     title="麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P" width="75%" height="75%"/>
     <figcaption>麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P</figcaption>
 </figure>
