@@ -141,10 +141,10 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
+### Contributors of the core concept:
 
 <a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=Proj-matrix/.github" alt="contrib.rocks image" />
 </a>
 
 
