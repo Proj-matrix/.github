@@ -25,7 +25,7 @@
         <img src="assets/logo_mini.jpg" alt="Logo" width="80" height="80">
     </div>
 
- <h3 align="center">Project [matrix]</h3>
+ <h3 align="center">Project [matrix] <br /> Here is where the project starts.</h3>
 
   <p align="center">
     A fan-made First-Person Shooter / Third-Person hero shooter game.
@@ -104,17 +104,34 @@ The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostl
 <!-- GETTING STARTED -->
 ## Getting Started
 
-**While the project hasn't on the railway, please check these papers to know what this project is going to do.**
+**While the project was not ready to start, please check these papers to know what this project is going to do.**
 
-- [All documents](docs/)
-- [High Concept](docs/00_High-Concept.md)
-- [Whitebook of the project](docs/01-Game-project-whitebook.md)
+* [All documents](docs/)
+* [High Concept](docs/00_High-Concept.md)
+* [Proposal of the project](docs/01-Game-project-proposal.md)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- PROJECT STATUS -->
+## Project Status
+
+<figure align="center">
+    <img src="assets/status_pm.gif"
+    title="still progressing" width="75%" height="75%"/>
+    <div align="center">
+    <figcaption>The high concept & game project proposal are still going to be made.<br />I'm still on da way, please wait! @hikarisakira</figcaption>
+    </div>
+</figure>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+- [ ] Project details
+  - [ ] High concept
+  - [ ] Game project proposal
+  - [ ] One-paged proposal
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
@@ -147,15 +164,12 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=Proj-matrix/.github" alt="contrib.rocks image" />
 </a>
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -173,6 +187,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SPECIAL THANKS (Especially assets) -->
+## SPECIAL THANKS (Especially assets)
+
+- [Chroma key & animation from Mr. Sechi's channel "BlueSechi"](https://www.youtube.com/@BlueSechi)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
