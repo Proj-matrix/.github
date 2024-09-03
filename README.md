@@ -67,12 +67,15 @@
 
 
 <figure align="center">
-    <img src="assets/dotgithub-title.gif"
-    title="plz ignore Midori's outfit, I'm not a iMovie guy lol." width="75%" height="75%"/>
     <div align="center">
-    <figcaption>plz ignore Midori's outfit, I'm not a iMovie guy lol.</figcaption>
+        <img src="assets/dotgithub-title.gif"
+        title="plz ignore Midori's outfit, I'm not a iMovie guy lol." width="75%" height="75%"/>
+    </div>
+    <div align="center">
+        <figcaption>plz ignore Midori's outfit, I'm not a iMovie guy lol.</figcaption>
     </div>
 </figure>
+<br />
 
 "Project [matrix]" is a fan-made First-Person Shooter / Third-Person (camera switchable) Hero shooter game which made by the fans of "Blue Archive".
 
