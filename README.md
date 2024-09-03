@@ -121,8 +121,10 @@ Whoever you are, welcome to this project.
 ## Project Status
 
 <figure align="center">
-    <img src="assets/status_pm.gif"
-    title="still in progress" height="75%"/>
+    <div align="center">
+        <img src="assets/status_pm.gif"
+        title="still in progress" height="75%"/>
+    </div>
     <div align="center">
     <figcaption>The high concept & game project proposal are still going to be made.<br />I'm still on da wae, please wait! @hikarisakira</figcaption>
     </div>
