@@ -128,7 +128,7 @@ The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostl
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Project details
+- [![Processing][processing]][processing] Project details
   - [ ] High concept
   - [ ] Game project proposal
   - [ ] One-paged proposal
@@ -226,3 +226,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [wwise]: https://a11ybadges.com/badge?logo=wwise
 
 [wwise_url]: https://www.audiokinetic.com/zh/wwise/overview/
+
+[processing]: <img src="https://github.com/Proj-matrix/.github/blob/concept-changes/assets/processing.gif" width="3%" height="3%">
