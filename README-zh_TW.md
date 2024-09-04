@@ -1,8 +1,6 @@
 [English](README.md) | [繁體中文](README-zh_TW.md)
 
-
 <a id="readme-top"></a>
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -16,8 +14,6 @@
 [![BSD 3-Clause][license-shield]][license-url]
 [![Discord][discord]][discord_url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -25,92 +21,87 @@
         <img src="assets/logo_mini.jpg" alt="Logo" width="80" height="80">
     </div>
 
- <h3 align="center">Project [matrix] <br /> 專案從這裡開始</h3>
+ <h3 align="center">Project [matrix] <br /> ～專案的一切，皆從此開始～</h3>
 
   <p align="center">
-    A fan-made First-Person Shooter / Third-Person hero shooter game.
+    第一人稱 / 第三人稱視角同人英雄射擊遊戲
     <br/>
-    Made by the fans of "Blue Archive".
+    由「蔚藍檔案」的粉絲們所製作
     <br />
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>文件主題清單</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#關於企劃">關於企劃</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#技術棧">技術棧</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#著手準備編譯">著手準備編譯</a>
     </li>
-    <li><a href="#project-status">Project Status</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#專案現況">專案現況</a></li>
+    <li><a href="#製作路線圖">製作路線圖</a></li>
     <ul>
-      <li><a href="#flag-meanings">Flag Meanings</a></li>
+      <li><a href="#標籤圖說">標籤圖說</a></li>
     </ul>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#special-thanks">Special Thanks</a></li>
+    <li><a href="#為專案貢獻">為專案貢獻</a></li>
+    <li><a href="#授權條款">授權條款</a></li>
+    <li><a href="#聯絡方式">聯絡方式</a></li>
+    <li><a href="#特別感謝">特別感謝</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
+## 關於企劃
 
 <figure align="center">
     <div align="center">
         <img src="assets/dotgithub-title.gif"
-        title="plz ignore Midori's outfit, I'm not a iMovie guy lol." width="75%" height="75%"/>
+        title="麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P" width="75%" height="75%"/>
     </div>
     <div align="center">
-        <figcaption>plz ignore Midori's outfit, I'm not a iMovie guy lol.</figcaption>
+        <figcaption>麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P</figcaption>
     </div>
 </figure>
 <br />
 
-"Project [matrix]" is a fan-made First-Person Shooter / Third-Person (camera switchable) Hero shooter game which made by the fans of "Blue Archive".
+ "Project [matrix]" 是一個由「蔚藍檔案」的粉絲製作並延伸的第一人稱/第三人稱視角(可切換)同人英雄射擊遊戲。
 
-The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostly) and C++ will be an option when Blueprint-based code was not enough to use.
+本專案將完全使用Unreal Engine 5製作，程式語言以Blueprint為主體，若Blueprint程式碼有不足之情況時Rust(主要)與C++語言將會是可選項。
 
-<em>For more information about this project, please check the documentation inside the [docs](docs/) folder.</em>
-
-
+<em>若想知道更多專案細節，敬請參閱 [docs](docs/) 資料夾中所示文件。</em>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-### Built With
+### 技術棧
 
 * [![UnrealEngine][Unreal Engine]][unreal_url]
 * [![Rust][Rust]][ferris_url]
 * [![C++][C++]][clang_url]
 * [![Blender][Blender]][blender_url]
-* [![Wwise][wwise]][wwise_url](planning)
+* [![Wwise][wwise]][wwise_url](未定，計劃中)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
-## Getting Started
+## 著手準備編譯
 
 ```txt
-Hello, fellas!
+歡迎各位的到來！
 
-If you're a "sensei" of the game "Blue Archive".
+如果您是一位蔚藍檔案的「老師」。
 
-Or, if you're a game developer.
+或者，您是一位遊戲程式設計師。
 
-Whoever you are, welcome to this project.
+不管您是誰，歡迎來到這個專案。
 ```
 
-**While the project was not ready to start, please check these papers to know what this project is going to do.**
+**這個專案暫時還未步上軌道，還未準備完成，在此期間，請參閱以下連結與文件，以了解專案相關細節。**
 
 * [All documents](docs/)
 * [High Concept](docs/00_High-Concept.md)
@@ -119,7 +110,7 @@ Whoever you are, welcome to this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- PROJECT STATUS -->
-## Project Status
+## 專案現況
 
 <figure align="center">
     <div align="center">
@@ -127,103 +118,117 @@ Whoever you are, welcome to this project.
         title="still in progress" height="75%"/>
     </div>
     <div align="center">
-    <figcaption>The high concept & game project proposal are still going to be made.<br />I'm still on da wae, please wait! @hikarisakira</figcaption>
+    <figcaption>來自專案創始人 @hikarisakira:<br />高概念文件與遊戲企劃書正在處理中，我還在製作的路上，再請耐心等候！</figcaption>
     </div>
 </figure>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Roadmap
+## 製作路線圖
 
-- <img src="assets/processing.gif" width="5%"> Project details <img src="assets/pm.gif" width="5%"> 
-  - <img src="assets/processing.gif" width="5%"> High concept
-  - [ ] Game project proposal
-  - [ ] One-paged proposal
-- [ ] Basic game template <img src="assets/programmers.gif" width="5%"> 
-  - [ ] Project create
-  - [ ] Basic third-person shooter template
-  - [ ] mmd-based & VRCHAT-based 3d model functionality test
-- [ ] Experiment of the game concept<img src="assets/programmers.gif" width="5%">
-  - [ ] Scene destruction
-  - [ ] Character switching
+* <img src="assets/processing.gif" width="5%"> 專案詳細書面文件 <img src="assets/pm.gif" width="5%">
+  * <img src="assets/processing.gif" width="5%"> 高概念文件
+  * [ ] 遊戲企劃書
+  * [ ] 一頁式企劃
+* [ ] 基本遊戲框架 <img src="assets/programmers.gif" width="5%">
+  * [ ] 建立專案
+  * [ ] 製作基本第三人稱射擊遊戲框架程式
+  * [ ] 基於 MMD / VRCHAT 的3D模型導入與功能測試
+* [ ] 遊戲概念實驗<img src="assets/programmers.gif" width="5%">
+  * [ ] 場景破壞
+  * [ ] 角色的隨時切換
 
-### Flag meanings
+### 標籤圖說
 
-- <img src="assets/processing.gif" width="5%"> Now processing
-- <img src="assets/pm.gif" width="5%"> Jobs belongs to PMs.
+* <img src="assets/processing.gif" width="5%"> 處理中。
 
-  - Including timeline, Kanban TODOs, documentations and ideas.
-- <img src="assets/programmers.gif" width="5%"> Jobs belongs to programmers.
+* <img src="assets/pm.gif" width="5%"> 專案管理(PM)所屬之工作。
 
-  - Including everything about the game engine, like basic functions, animations, shaders...etc.
-  - Wwise.
+  * 包含預估時程表、流程看板、所有書面文件以及大部分的創意發想。
 
-- (not done yet) Jobs belongs to the artists. (And that's a really heavy workloads for the artists. o7)
+* <img src="assets/programmers.gif" width="5%"> 程式設計師所屬之工作。
 
-  - UI/UX
-  - Animation
-  - 3D modeling (including scenes, characters, items...etc)
-  - Shaders
-  - VFX
+  * 有關遊戲引擎一切相關的工作，包含基本功能、動畫事件、畫面渲染程式...等。
 
-- <img src="assets/sound_artists.gif" width="5%"> Jobs belongs to sound artists.
-  - Including SFX, background music, soundtracks.
-  - Wwise.
+  * Wwise聲效引擎之操作。
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+* <img src="assets/illustrators.gif" width="5%"> 繪師/藝術家所屬之工作 *本處所指之藝術家包含2D與3D製作 **(也就是建模師)**，為統稱概念。*
+(他們所接的工作量真的非常大，為各位繪師與建模師們致上最高的敬意。)
+
+  * UI/UX
+
+  * 動畫製作
+
+  * 3D建模 (包含但不限於場景、角色、場景物品等)
+
+  * 渲染
+
+  * 動效、特效
+
+* <img src="assets/sound_artists.gif" width="5%"> 音樂作曲家所屬之工作。
+
+  * 包含各種音效，背景音樂與原聲帶之製作
+
+  * Wwise聲效引擎之操作。
+
+<!--See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 為專案貢獻
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+為一個開放原始碼專案的貢獻，是為了讓開源社區有一個更美好、奇妙的環境去學習、得到靈感與創造美好的事物。
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+對於任何程式碼的貢獻，只要能讓這個專案乃至於讓整個開源社區變得更美好，**我們都非常支持、鼓勵且歡迎**。
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+若您有任何建議能讓這個專案進步，變得更好，敬請fork我們的專案存放庫並開啟一個新的pull要求。您也可以簡單地開啟一個新的issue並附上 "enhancement" 標籤。
+
+也請不要忘記給我們的專案一顆星的支持！
+
+再次感謝您支持本專案！
+
+1. Fork 這個專案
+2. 創建您的功能分支 (`git checkout -b feature/AmazingFeature`)
+3. 發送您的更動 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到您的分支上 (`git push origin feature/AmazingFeature`)
+5. 對我們的專案提出Pull要求。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Contributors of the core concept:
+### 核心概念貢獻者 清單
 
 <a href="https://github.com/github_username/repo_name/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Proj-matrix/.github" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
-## License
+## 授權條款
 
-Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
+本專案依循BSD-3-Clause授權條款發布，敬請詳閱`LICENSE`檔案以了解更多資訊。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
-## Contact
+## 聯絡方式
 
-- Kona Lukxlir(my personal info, not mainly used) - [Facebook](https://www.facebook.com/real.hikari.sakira) 
+* Kona Lukxlir(個人頁面，少用) - [Facebook](https://www.facebook.com/real.hikari.sakira)
   
-- Momoi Saiba(use often) - [Facebook](https://www.facebook.com/profile.php?id=61554988172841) 
+* Momoi Saiba(常用帳號) - [Facebook](https://www.facebook.com/profile.php?id=61554988172841)
 
-- [My Instagram](https://www.instagram.com/air.rinascimento/)
+* [My Instagram](https://www.instagram.com/air.rinascimento/)
 
-- Email: [hikarisakira@pm.me](mailto:hikarisakira@pm.me)
+* Email: [hikarisakira@pm.me](mailto:hikarisakira@pm.me)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SPECIAL THANKS -->
-## Special Thanks
+## 特別感謝
 
-- [Chroma key & animation from Mr. Sechi's channel "BlueSechi"](https://www.youtube.com/@BlueSechi)
+* [韓國Youtuber Sechi 其所開頻道 "BlueSechi" 提供之綠幕素材](https://www.youtube.com/@BlueSechi)
 
-- [Best-README-Template by othneildrew](https://github.com/othneildrew/Best-README-Template)
+* [Best-README-Template by othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

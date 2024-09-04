@@ -63,7 +63,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
 <figure align="center">
     <div align="center">
         <img src="assets/dotgithub-title.gif"
@@ -80,8 +79,6 @@
 The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostly) and C++ will be an option when Blueprint-based code was not enough to use.
 
 <em>For more information about this project, please check the documentation inside the [docs](docs/) folder.</em>
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,41 +134,60 @@ Whoever you are, welcome to this project.
 ## Roadmap
 
 - <img src="assets/processing.gif" width="5%"> Project details <img src="assets/pm.gif" width="5%"> 
+
   - <img src="assets/processing.gif" width="5%"> High concept
+
   - [ ] Game project proposal
+
   - [ ] One-paged proposal
+
 - [ ] Basic game template <img src="assets/programmers.gif" width="5%"> 
+
   - [ ] Project create
+
   - [ ] Basic third-person shooter template
+
   - [ ] mmd-based & VRCHAT-based 3d model functionality test
+
 - [ ] Experiment of the game concept<img src="assets/programmers.gif" width="5%">
+
   - [ ] Scene destruction
+
   - [ ] Character switching
 
 ### Flag meanings
 
-- <img src="assets/processing.gif" width="5%"> Now processing
+- <img src="assets/processing.gif" width="5%"> Now processing.
+
 - <img src="assets/pm.gif" width="5%"> Jobs belongs to PMs.
 
   - Including timeline, Kanban TODOs, documentations and ideas.
+
 - <img src="assets/programmers.gif" width="5%"> Jobs belongs to programmers.
 
   - Including everything about the game engine, like basic functions, animations, shaders...etc.
+
   - Wwise.
 
-- (not done yet) Jobs belongs to the artists. (And that's a really heavy workloads for the artists. o7)
+- <img src="assets/illustrators.gif" width="5%"> Jobs belongs to the artists. (And that's a really heavy workloads for the artists. o7)
 
   - UI/UX
+
   - Animation
+
   - 3D modeling (including scenes, characters, items...etc)
+
   - Shaders
+
   - VFX
 
 - <img src="assets/sound_artists.gif" width="5%"> Jobs belongs to sound artists.
+
   - Including SFX, background music, soundtracks.
+
   - Wwise.
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+<!--See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
