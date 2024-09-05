@@ -18,6 +18,8 @@
     <div align="center">
         <img src="../assets/dotgithub-title.gif"
         title="麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P" width="75%" height="75%"/>
+    </div>
+    <div align="center">
         <figcaption>麻煩請不要在意小綠的衣服，我不是很會使用iMovie :P</figcaption>
     </div>
 </figure>
