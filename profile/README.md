@@ -17,8 +17,10 @@ The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostl
     <div align="center">
         <img src="../assets/dotgithub-title.gif"
         title="plz ignore Midori's outfit, I'm not a iMovie guy lol." width="75%" height="75%"/>
+    </div>
+    <div align="center">
         <figcaption>plz ignore Midori's outfit, I'm not a iMovie guy lol.</figcaption>
-    <div/>
+    </div>
 </figure>
 
 <!-- MARKDOWN LINKS & IMAGES -->
