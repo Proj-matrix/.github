@@ -76,7 +76,9 @@
 
 "Project [matrix]" is a fan-made First-Person Shooter / Third-Person (camera switchable) Hero shooter game which made by the fans of "Blue Archive".
 
-The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostly) and C++ will be an option when Blueprint-based code was not enough to use.
+~~The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostly) and C++ will be an option when Blueprint-based code was not enough to use.~~
+
+Nope, we're going to port to Source 2 Engine, with magic by using s&box, but our heavily modified version written in Rust.
 
 <em>For more information about this project, please check the documentation inside the [docs](docs/) folder.</em>
 
@@ -85,7 +87,11 @@ The project will be built in Unreal Engine 5, mainly using Blueprint, Rust(mostl
 
 ### Built With
 
-* [![UnrealEngine][Unreal Engine]][unreal_url]
+ [![UnrealEngine][Unreal Engine]][unreal_url] (Not anymore, Porting to s&box)
+
+<br />
+
+* [![Source 2][Source 2]][source2_url](by using heavily modified [s&box](https://sbox.game/))
 * [![Rust][Rust]][ferris_url]
 * [![C++][C++]][clang_url]
 * [![Blender][Blender]][blender_url]
@@ -225,12 +231,10 @@ Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 ## Contact
 
 - Kona Lukxlir(my personal info, not mainly used) - [Facebook](https://www.facebook.com/real.hikari.sakira) 
-  
-- Momoi Saiba(use often) - [Facebook](https://www.facebook.com/profile.php?id=61554988172841) 
 
-- [My Instagram](https://www.instagram.com/air.rinascimento/)
+- [My Instagram](https://www.instagram.com/sdp.hsakira/)
 
-- Email: [hikarisakira@pm.me](mailto:hikarisakira@pm.me)
+- Email: [hikarisakira@proton.me](mailto:hikarisakira@proton.me)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,6 +249,10 @@ Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[Source 2]: https://img.shields.io/badge/source_2-%23313131.svg?style=for-the-badge&logo=sourceengine&logoColor=white&labelColor=orange
+
+[source2_url]: https://developer.valvesoftware.com/wiki/Source_2
 
 [Unreal Engine]: https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white
 
